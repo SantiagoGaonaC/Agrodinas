@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agrodinas", "Agrodinas\Agrodinas.csproj", "{FF9EAF5C-1C46-4333-8EAE-3B33C0E4993B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF9EAF5C-1C46-4333-8EAE-3B33C0E4993B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF9EAF5C-1C46-4333-8EAE-3B33C0E4993B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF9EAF5C-1C46-4333-8EAE-3B33C0E4993B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF9EAF5C-1C46-4333-8EAE-3B33C0E4993B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {092649E4-63C0-4C4B-8F77-45CE134581A2}
+	EndGlobalSection
+EndGlobal
